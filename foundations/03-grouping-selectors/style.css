@@ -1,0 +1,11 @@
+.basic-button, .stylish-button{
+    font-size:28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.basic-button{
+    background-color: hsl(21, 100%, 0%);
+    color: #fff;
+}
+.stylish-button{
+    background-color:yellow;
+}
